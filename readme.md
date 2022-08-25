@@ -9,7 +9,7 @@
 En este proyecto se implementará un aplicativo web para que un administrador pueda gestionar los ingresos y egresos de su empresa. El sistema debería permitir visualizar los totales de la empresa para que el gerente pueda tomar decisiones sobre la situación financiera.
 
 
-###Conoce a nuestro equipo de desarrollo:
+🔎💣 Conoce a nuestro equipo de desarrollo🔎💣
 
 
 - 👽 Alejandra Quintero Martinez (chakaleja0129@gmail.com) UsuarioGit: chakaleja
