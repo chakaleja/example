@@ -1,32 +1,26 @@
 
-
-
-
-<img align="center" src="https://www.androidhits.com/7-tips-to-become-a-better-android-developer/"> 
+<img align="center" src="https://www.software-mantenimiento.com/wp-content/uploads/2021/01/la-diferencia-entre-el-desarrollo-de-software-6.jpg"> 
 
 
  🔮🔮🔮🔮 Desarrollo de Software - Ciclo 3 - Mintic. 🔮🔮🔮🔮
 
 # Bienvenido al proyecto  de Developer-s-MinTic 
 
-## En este proyecto se implementará un aplicativo web para que un administrador pueda gestionar los 
-ingresos y egresos de su empresa. El sistema debería permitir visualizar los 
-totales de la empresa para que el gerente pueda tomar decisiones sobre la 
-situación financiera
-
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" />
-Conoce a nuestro equipo de desarrollo:
+En este proyecto se implementará un aplicativo web para que un administrador pueda gestionar los ingresos y egresos de su empresa. El sistema debería permitir visualizar los totales de la empresa para que el gerente pueda tomar decisiones sobre la situación financiera.
 
 
-- 👽 Mercy Velez Mejia (mercy.velez@correounivalle.edu.co) UsuarioGit: Mercyvm
+##Conoce a nuestro equipo de desarrollo:
 
-- 👽 Ana Julieta Torres Roldán (julytroldan@yahoo.com) UsuarioGit: Jules9004
 
-- 👽 Michael Andrés Fresneda Culma (Michael.fresneda@hotmail.com) UsuarioGit: Fresneda777
+- 👽 Alejandra Quintero Martinez (chakaleja0129@gmail.com) UsuarioGit: chakaleja
 
-- 👽 Luis Gabriel Quira Mazabuel (luisgalic64@gmail.com) UsuarioGit: LUISGA64
+- 👽 Kelly Johanna Escobar Castaño (kellyjohanna83@gmail.com) UsuarioGit: kellyes93
 
-- 👽 
+- 👽 Jhon Fredy López Cruz (jhon.lopez03@uptc.edu.co) UsuarioGit: fredyl258
+
+- 👽 Jhonnattan Andrés Botero Valderrama (jabotero88@gmail.com) UsuarioGit: JABotero88
+
+- 👽 Andrés Felipe Núñez Castro (fnunez01@hotmail.es) UsuarioGit: fnunez01
 
 
 ### Languages and Tools 🛠 
@@ -48,3 +42,5 @@ Conoce a nuestro equipo de desarrollo:
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+
